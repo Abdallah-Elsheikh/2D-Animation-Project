@@ -1,25 +1,40 @@
-# 2D Animation Project
+# 🎬 2D Animation Project (Anime Studio)
 
-## Project Overview
-This project represents a collaborative effort to create a 2D animation sequence using **Anime Studio**. The project demonstrates skills in character design, rigging, animation, and scene composition.
+A collaborative animation project demonstrating advanced skills in **2D rigging**, **character animation**, and **storytelling** using **Anime Studio (Moho)**.
 
-## Collaboration Details
-This project was developed by a team of two members. To ensure transparency and highlight individual contributions, the project is divided into two distinct actions:
+---
 
-### My Contribution: First Action
-I was fully responsible for the first segment, titled **"First Action"**.
-- **Video Output:** `First Action.mp4`
-- **Source Files:** `First Action.anme`, `Background.anme`, `Background + Car.anme`
-- **Technical Role:** I handled the character design, rigging, and animation execution for this specific sequence.
+## 📖 Project Overview
+This project was developed by a team of two to create a cohesive narrative sequence. To ensure transparency and highlight individual skills, the work was divided into two distinct actions.
 
-### Colleague's Contribution: Second Action
-The second segment, titled **"Second Action"**, was developed by my teammate.
-- **Video Output:** `Second Action.mp4`
-- **Role:** My colleague was responsible for animating this sequence to complete the narrative.
+### 📂 Repository Contents
+The repository includes source files (`.anme`) for deep inspection and rendered video outputs (`.mp4`).
 
-## Tools Used
-- Anime Studio (Moho)
-- Video Editing Software
+---
 
-## How to Watch
-You can view the animation by downloading the video files (`First Action.mp4` and `Second Action.mp4`) listed in the repository.
+## 🎞️ Animation Breakdown
+
+| Sequence | My Contribution (Role) | Video Preview |
+| :--- | :--- | :--- |
+| **First Action** | **Lead Animator & Rigger**<br>Responsible for character design, rigging, and the complete animation execution of this segment. | [**▶️ Watch First Action**](First%20Action.mp4)<br>*(Click to play)* |
+| **Second Action** | **Team Collaboration**<br>This segment was animated by my colleague to complete the storyline. | [**▶️ Watch Second Action**](Second%20Action.mp4)<br>*(Click to play)* |
+
+---
+
+## 🛠️ Technical Details
+
+### My Contribution: "First Action"
+* **Source Files:** `First Action.anme`, `Background.anme`, `Background + Car.anme`
+* **Key Skills Applied:**
+    * **Rigging:** Creating skeletal structures for characters (Bone System).
+    * **Scene Composition:** Layering backgrounds and props.
+    * **Timing & Spacing:** Applying animation principles for fluid movement.
+
+### Tools Used
+* **Software:** Anime Studio (Moho)
+* **Post-Production:** Video Editing Software
+
+---
+
+## 👨‍💻 Author
+**Abdallah Salah ELsheikh** - Software Engineer & Creative Animator
